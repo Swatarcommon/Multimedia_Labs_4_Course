@@ -1,0 +1,79 @@
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\laba2.exe.config
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\laba2.exe
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\laba2.pdb
+D:\Univer\sem7\pmmp\labs\laba2\laba2\obj\Debug\laba2.csprojAssemblyReference.cache
+D:\Univer\sem7\pmmp\labs\laba2\laba2\obj\Debug\laba2.Properties.Resources.resources
+D:\Univer\sem7\pmmp\labs\laba2\laba2\obj\Debug\laba2.csproj.GenerateResource.cache
+D:\Univer\sem7\pmmp\labs\laba2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+D:\Univer\sem7\pmmp\labs\laba2\laba2\obj\Debug\laba2.csproj.CopyComplete
+D:\Univer\sem7\pmmp\labs\laba2\laba2\obj\Debug\laba2.exe
+D:\Univer\sem7\pmmp\labs\laba2\laba2\obj\Debug\laba2.pdb
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\x64\concrt140.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\x64\cvextern.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\x64\msvcp140.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\x64\opencv_ffmpeg410_64.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\x64\vcruntime140.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\x86\concrt140.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\x86\cvextern.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\x86\msvcp140.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\x86\opencv_ffmpeg410.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\x86\vcruntime140.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\Emgu.CV.UI.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\Emgu.CV.World.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\ZedGraph.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\Emgu.CV.UI.xml
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\Emgu.CV.World.xml
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\ZedGraph.xml
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\de\ZedGraph.resources.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\es\ZedGraph.resources.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\fr\ZedGraph.resources.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\hu\ZedGraph.resources.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\it\ZedGraph.resources.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\ja\ZedGraph.resources.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\pt\ZedGraph.resources.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\ru\ZedGraph.resources.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\sk\ZedGraph.resources.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\sv\ZedGraph.resources.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\tr\ZedGraph.resources.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Univer\sem7\pmmp\labs\laba2\laba2\obj\Debug\laba2.Form1.resources
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\x64\concrt140.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\x64\cvextern.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\x64\msvcp140.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\x64\opencv_ffmpeg410_64.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\x64\vcruntime140.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\x86\concrt140.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\x86\cvextern.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\x86\msvcp140.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\x86\opencv_ffmpeg410.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\x86\vcruntime140.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\laba2.exe.config
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\laba2.exe
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\laba2.pdb
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\Emgu.CV.UI.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\Emgu.CV.World.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\ZedGraph.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\Emgu.CV.UI.xml
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\Emgu.CV.World.xml
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\ZedGraph.xml
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\de\ZedGraph.resources.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\es\ZedGraph.resources.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\fr\ZedGraph.resources.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\hu\ZedGraph.resources.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\it\ZedGraph.resources.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\ja\ZedGraph.resources.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\pt\ZedGraph.resources.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\ru\ZedGraph.resources.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\sk\ZedGraph.resources.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\sv\ZedGraph.resources.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\tr\ZedGraph.resources.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\obj\Debug\laba2.csprojAssemblyReference.cache
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\obj\Debug\laba2.Form1.resources
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\obj\Debug\laba2.Properties.Resources.resources
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\obj\Debug\laba2.csproj.GenerateResource.cache
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\obj\Debug\laba2.csproj.CopyComplete
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\obj\Debug\laba2.exe
+C:\Disk D\Studying\Course_4\Multimedia\laba2\laba2\obj\Debug\laba2.pdb
